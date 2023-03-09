@@ -151,7 +151,7 @@ button:hover {
   color: white;
 }
 
-/* NOTE EDITOR/PREVIEW (MAIN) STYLES */
+
 .app-main {
   display: flex;
   background-color: var(--white);
